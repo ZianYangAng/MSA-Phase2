@@ -1,0 +1,13 @@
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\bin\Debug\netcoreapp2.1\ChadAPI.deps.json
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\bin\Debug\netcoreapp2.1\ChadAPI.runtimeconfig.json
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\bin\Debug\netcoreapp2.1\ChadAPI.runtimeconfig.dev.json
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\bin\Debug\netcoreapp2.1\ChadAPI.dll
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\bin\Debug\netcoreapp2.1\ChadAPI.pdb
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.csproj.CoreCompileInputs.cache
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.RazorAssemblyInfo.cache
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.RazorAssemblyInfo.cs
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.AssemblyInfoInputs.cache
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.AssemblyInfo.cs
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.RazorTargetAssemblyInfo.cache
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.dll
+D:\Programming\MSA-Phase2-Github\APICREATION\ChadAPI\ChadAPI\obj\Debug\netcoreapp2.1\ChadAPI.pdb
